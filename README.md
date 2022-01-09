@@ -1,4 +1,4 @@
-# vue-demo-app
+# vue-demo-app (Find a Coach)
 Goal of this App to apply Vue.js concepts I learned
 
 ## Vuex: https://vuex.vuejs.org/ (with modules)
