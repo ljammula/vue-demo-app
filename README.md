@@ -5,4 +5,4 @@ Goal of this App to apply Vue.js concepts I learned
 ## Vue Router: https://router.vuejs.org/
 ## Backend: https://firebase.google.com/
 
-########## Project has been adopted from https://www.udemy.com/course/vuejs-2-the-complete-guide/
+######## Project has been adopted from https://www.udemy.com/course/vuejs-2-the-complete-guide/
