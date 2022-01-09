@@ -1,9 +1,9 @@
 # vue-demo-app (Find a Coach)
 Goal of this App to apply Vue.js concepts I learned
 
-## Vuex: https://vuex.vuejs.org/ (with modules)
-## Vue Router: https://router.vuejs.org/
-## Backend: https://firebase.google.com/
+#### Vuex: https://vuex.vuejs.org/ (with modules)
+#### Vue Router: https://router.vuejs.org/
+#### Backend: https://firebase.google.com/
 
 ## Project setup
 ```
