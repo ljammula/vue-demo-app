@@ -1,5 +1,5 @@
 # vue-demo-app (Find a Coach)
-Goal of this App to apply Vue.js concepts
+Goal of this App to apply Vue.js concepts (using options API)
 
 #### Vuex: https://vuex.vuejs.org/ (with modules)
 #### Vue Router: https://router.vuejs.org/
